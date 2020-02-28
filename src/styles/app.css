@@ -14,11 +14,13 @@ body{
   font-weight: bold;
 }
 
-.collapse.navbar-collapse{
-  background-color: black;
-}
-
 a.nav-link{
   color: white;
+}
+
+span.navbar-text{
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
 }
 
